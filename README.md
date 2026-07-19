@@ -1,2 +1,7 @@
-# lekhapriyadharshini-data-engineering
-A collection of end-to-end Data Engineering projects demonstrating SQL, Python, PySpark, Databricks, Delta Lake, Azure Data Factory, and modern ETL/ELT pipelines.
+# Lekhapriyadharshini Data Engineering
+
+Welcome to my Data Engineering portfolio.
+
+I'm currently building hands-on Data Engineering projects using SQL, Python, PySpark, Databricks, Delta Lake, and Azure Data Factory.
+
+More projects and documentation will be added over time.
